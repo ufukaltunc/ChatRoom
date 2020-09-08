@@ -6,8 +6,10 @@ Kullanım
 Kayıt ol menüsünde isimle kayıt olduktan sonra sohbet menüsü gelmekte.
 
 Server için:
-'''python server.py'''
-
+```
+python server.py
+```
 Client için:
-'''python client.py'''
-
+```
+python client.py
+```
