@@ -1,8 +1,8 @@
 # **Python Sohbet Odası**
-Hakkında
+##Hakkında
 Server-Client ilişkisiyle oluşturulmuş basit bir arayüz ChatRoom uygulamasıdır. İki uç nokta arasındaki ilişkiyi sağlamak için socketler kullanıldı. 
 
-Kullanım
+##Kullanım
 Kayıt ol menüsünde isimle kayıt olduktan sonra sohbet menüsü gelmekte.
 
 Server için:
