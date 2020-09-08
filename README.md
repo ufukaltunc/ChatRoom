@@ -1,6 +1,4 @@
-**Python Sohbet Odası**{
-  font-size: 100;
-}
+# **Python Sohbet Odası**
 Hakkında
 Server-Client ilişkisiyle oluşturulmuş basit bir arayüz ChatRoom uygulamasıdır. İki uç nokta arasındaki ilişkiyi sağlamak için socketler kullanıldı. 
 
