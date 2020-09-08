@@ -2,9 +2,6 @@
 ## Hakkında
 Server-Client ilişkisiyle oluşturulmuş basit bir arayüz ChatRoom uygulamasıdır. İki uç nokta arasındaki bağlantıyı sağlamak için soketler kullanıldı. 
 
-## ÖnKoşul 
-Uygulamayı çalıştırabilmeniz için kullanılan modülleri indirmiş olmanız gerekiyor. Eğer indirmediyseniz aşağıdaki kodları terminale yazmanız yeterlidir.
-
 ## Kullanım
 Kayıt ol menüsünde isimle kayıt olduktan sonra diğer clientler ile sohbet edebilirsiniz.
 
